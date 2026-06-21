@@ -1,6 +1,5 @@
 # Opening of GEVINO Opto
 
-![GEVINO Opto enclosure](pics/Open2.jpg)
 
 The **GEVINO Opto** ships in a modular DIN-rail plastic enclosure held together by snap-fit plastic
 hooks. **You normally don't need to open it.**
@@ -32,15 +31,16 @@ Release the **red DIN-rail latch** on the back of the case first, so the body is
 
 Release the **4 main hooks** on the sides of the enclosure. Work one at a time, evenly around the
 case — don't lever the cover up while a hook is still engaged.
-
+![GEVINO Opto enclosure](pics/Open2.jpg)
 ![Open the side hooks](pics/Open3.jpg)
 
 ![Use a small screwdriver to release the hooks](pics/Open4.jpg)
 
+![Cover coming away from the body](pics/Open5.jpg)
+
 Once all four are released, lift the cover **straight off**. If it resists, stop — a hook is still
 engaged.
 
-![Cover coming away from the body](pics/Open5.jpg)
 
 ---
 
