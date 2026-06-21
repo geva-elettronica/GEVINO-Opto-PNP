@@ -140,7 +140,7 @@ are **NPN**.
 |------|-------------|
 | [`src/`](src/) | The single-header support library (`gevino_opto_pnp_io.h`). |
 | [`examples/`](examples/) | Ready-to-flash Arduino sketches. |
-| [`docs/`](docs/) | Hardware manual (PDF) and CE declaration. |
+| [`docs/`](docs/) | Hardware manual (PDF), CE declaration and the [enclosure-opening guide](docs/open-the-enclosure.md). |
 | [`AGENTS.md`](AGENTS.md) | Programming guide for LLMs / AI coding agents. |
 | [`llms.txt`](llms.txt) | LLM-friendly map of the repository (llmstxt.org convention). |
 | [`keywords.txt`](keywords.txt) | Arduino IDE syntax highlighting. |
@@ -229,7 +229,10 @@ A lightweight non-blocking software timer class (`Timer`) based on `millis()` is
 
 ## Documentation
 
-The hardware manual and the CE declaration (PDF) are in [`docs/`](docs/).
+The hardware manual and the CE declaration (PDF) are in [`docs/`](docs/). See also
+**[Opening of GEVINO Opto](docs/open-the-enclosure.md)** — how to open the enclosure without
+snapping the fragile hooks (only needed for internal modifications; the SD card is reached from
+outside).
 
 ## Buy / contact
 
