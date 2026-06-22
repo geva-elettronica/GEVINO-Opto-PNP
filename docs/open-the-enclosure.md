@@ -11,7 +11,7 @@ cover.
 
 Release the **red DIN-rail latch** on the back of the case first, so the body is free to handle.
 
-![Remove the red hook](pics/Open1.jpg)
+![Remove the red hook](pics/Open1.png)
 
 ---
 
@@ -19,7 +19,9 @@ Release the **red DIN-rail latch** on the back of the case first, so the body is
 
 Release the **4 main hooks** on the sides of the enclosure. Work one at a time, evenly around the
 case — don't lever the cover up while a hook is still engaged.
+
 ![GEVINO Opto enclosure](pics/Open2.jpg)
+
 ![Open the side hooks](pics/Open3.jpg)
 
 ![Use a small screwdriver to release the hooks](pics/Open4.jpg)
