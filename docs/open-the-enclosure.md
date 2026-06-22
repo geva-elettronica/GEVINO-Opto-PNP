@@ -4,20 +4,8 @@
 The **GEVINO Opto** ships in a modular DIN-rail plastic enclosure held together by snap-fit plastic
 hooks. **You normally don't need to open it.**
 
-> ℹ️ **Note — you don't open the case to reach the SD card.** The micro-SD slot is accessible from
-> the outside, behind the front door. You only need to open the enclosure for **internal
-> modifications** (fitting an optional module, changing a jumper/DIP setting, inspecting the board).
-
 A few of the hooks are **tiny and easy to snap**, so follow the order below and never force the
 cover.
-
-## Before you start
-
-- **Power off** the GEVINO and disconnect it from the power supply.
-- Work on a clean, flat surface. A small flat screwdriver only helps to *gently* nudge a hook —
-  never to pry hard.
-
----
 
 ## 1 · Remove the red hook
 
