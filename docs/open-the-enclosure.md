@@ -20,13 +20,13 @@ Release the **red DIN-rail latch** on the back of the case first, so the body is
 Release the **4 main hooks** on the sides of the enclosure. Work one at a time, evenly around the
 case — don't lever the cover up while a hook is still engaged.
 
-![GEVINO Opto enclosure](pics/Open2.jpg)
+![GEVINO Opto enclosure](pics/Open2.png)
 
-![Open the side hooks](pics/Open3.jpg)
+![Open the side hooks](pics/Open3.png)
 
-![Use a small screwdriver to release the hooks](pics/Open4.jpg)
+![Use a small screwdriver to release the hooks](pics/Open4.png)
 
-![Cover coming away from the body](pics/Open5.jpg)
+![Cover coming away from the body](pics/Open5.png)
 
 Once all four are released, lift the cover **straight off**. If it resists, stop — a hook is still
 engaged.
@@ -39,7 +39,7 @@ engaged.
 Inside, near the board's edge, there are **2 tiny hooks**. These are the most fragile part of the
 whole enclosure — **easy to break, even during insertion of the card.**
 
-![The two small, fragile hooks](pics/Open6.jpg)
+![The two small, fragile hooks](pics/Open6.png)
 
 > 🛈 **GEVA's tip:** *to avoid breaking the tiny hooks — even during the insertion of the card —
 > fold the wall outwards.*
@@ -50,7 +50,7 @@ whole enclosure — **easy to break, even during insertion of the card.**
 Flex the wall **outward**, just enough to clear the part, then handle it **straight** with light
 pressure. Never push at an angle against the small hooks.
 
-![Fold the wall outward to protect the small hook](pics/Open7.jpg)
+![Fold the wall outward to protect the small hook](pics/Open7.png)
 
 ---
 
