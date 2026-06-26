@@ -123,6 +123,8 @@ void setup() {
   Serial1.println("AT");
   delay(500);
   Serial1.println("ATI");
+  delay(500);
+  Serial1.println("AT+CSQ");
 
   testLeds();
 
