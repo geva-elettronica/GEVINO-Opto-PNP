@@ -1,0 +1,2 @@
+Modificata ultima riga del RS485.cpp
+Adattare alla scheda in uso

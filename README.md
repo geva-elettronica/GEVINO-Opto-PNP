@@ -225,6 +225,7 @@ A lightweight non-blocking software timer class (`Timer`) based on `millis()` is
 | [`ADC`](examples/ADC/ADC.ino) | Non-blocking analog reading with `analogPolling()`. |
 | [`Timer`](examples/Timer/Timer.ino) | Non-blocking blink using the `Timer` class. |
 | [`Aux_As_Output`](examples/Aux_As_Output/Aux_As_Output.ino) | Using the analog pins as NPN auxiliary outputs 5/6. |
+| [`Modbus_IO_Server`](examples/Modbus_IO_Server/Modbus_IO_Server.ino) | Remote I/O module: all I/O over Modbus TCP + RTU, USB console setup ([manual, IT](examples/Modbus_IO_Server/MANUALE.md)). |
 | [`GEVINO_opto_PNP_Test`](examples/GEVINO_opto_PNP_Test/GEVINO_opto_PNP_Test.ino) | Full factory test: SD, RTC, FRAM, Ethernet, CAN, LoRa, ESP, SIM, inputs/outputs. |
 
 ## Documentation

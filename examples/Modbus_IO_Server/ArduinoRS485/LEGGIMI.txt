@@ -1,0 +1,16 @@
+ArduinoRS485 - versione modificata GEVA per GEVINO
+==================================================
+
+Questa e' la libreria ArduinoRS485 (Arduino SA, LGPL 2.1) modificata da GEVA:
+l'ultima riga di RS485.cpp imposta il pin di trasmissione RS485 della scheda:
+
+    RS485Class RS485(Serial1, 1, A1, -1);   // GEVINO NPN PNP Civile
+
+Con la libreria originale il Modbus RTU del GEVINO NON trasmette.
+
+INSTALLAZIONE
+1. Chiudere l'Arduino IDE.
+2. Copiare questa cartella "ArduinoRS485" in Documenti\Arduino\libraries\
+   sostituendo l'eventuale ArduinoRS485 gia' presente (anche quella installata
+   dal Gestore librerie: va rimossa, altrimenti l'IDE potrebbe usare quella).
+3. Riaprire l'IDE e ricompilare.
