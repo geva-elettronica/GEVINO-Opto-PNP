@@ -158,7 +158,12 @@ void loop() {
     tmp = SerialUSB.read();
     Serial.write(tmp);
     Serial1.write(tmp);
+    set_Rs485_TxEn;
   }
+  if (SERCOM0->USART.INTFLAG.bit.TXC){   //Remove Tx Enable when the last character has been sent out.
+    res_Rs485_TxEn;
+    SERCOM0->USART.INTFLAG.bit.TXC = 1;    
+  }  
 
   if( millis() - TimerForSec > 1000 ){
     TimerForSec = millis();
