@@ -1,5 +1,7 @@
 # GEVINO Opto PNP
 
+![GEVINO Opto](images/GEVINO_Opto.png)
+
 **GEVINO Opto PNP** is an affordable, Arduino-compatible **industrial PLC** built around the
 Microchip **SAMD21** microcontroller (32-bit ARM Cortex-M0+). It is **Arduino Zero compatible**,
 so you program it with the standard Arduino IDE / Arduino SAMD core, while getting industrial-grade
